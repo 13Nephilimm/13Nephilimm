@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeko</h1>
-<h3 align="center">A passionate web developer from Georgia 🇬🇪</h3>
+<h3 align="center">A passionate web developer from Georgia</h3>
 
 <img align="right" alt="Coding" width="350" src="https://img.freepik.com/premium-vector/software-development-web-coding-laptop-programming-concept-website-design-coding-remote-work-home_3482-5615.jpg" />
 
